@@ -1,4 +1,4 @@
-# FullInfo -- System Information Inspector (GUI)
+# FullInfo - System Information Inspector (GUI)
 
 FullInfo is a desktop application that displays detailed system
 information through a clean and simple graphical interface. It can show
