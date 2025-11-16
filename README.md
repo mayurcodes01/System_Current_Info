@@ -73,8 +73,6 @@ Install the required Python packages before running the application:
 2.  Open a terminal in the script directory.
 3.  Run:
 
-```{=html}
-<!-- -->
 ```
     python FullInfo.py
 
